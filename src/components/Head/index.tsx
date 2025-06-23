@@ -17,7 +17,7 @@ export function Head() {
         </a>
       </div>
       <div className={styles.img}>
-        <img src="/public/content/team7BG.png" />
+        <img src="/content/team7BG.png" />
       </div>
     </div>
   );
